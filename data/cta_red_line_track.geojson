@@ -1,0 +1,2513 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red, Purple Line",
+        "description": null,
+        "ASSET_ID": 21100020,
+        "SHAPE.LEN": 2830.409345,
+        "OBJECTID_1": 20,
+        "DESCRIPTIO": "Loyola to Granville",
+        "LINES": "Red, Purple Line",
+        "ALT_LEGEND": "RDPR",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red, Purple Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.65920227800822,
+              41.99366425961261
+            ],
+            [
+              -87.65918313275571,
+              41.99463460757577
+            ],
+            [
+              -87.65918917476192,
+              41.99549012023167
+            ],
+            [
+              -87.65921121703383,
+              41.99632272927278
+            ],
+            [
+              -87.65925719056398,
+              41.99722447106912
+            ],
+            [
+              -87.65926651230342,
+              41.99750968264495
+            ],
+            [
+              -87.65926768240101,
+              41.99798342244728
+            ],
+            [
+              -87.65930831630155,
+              41.99822282506503
+            ],
+            [
+              -87.65935477631176,
+              41.99849445941176
+            ],
+            [
+              -87.65942550988498,
+              41.99880303031604
+            ],
+            [
+              -87.65947896410114,
+              41.99899651673432
+            ],
+            [
+              -87.65955678812828,
+              41.99921774295464
+            ],
+            [
+              -87.65964698967798,
+              41.99943444100428
+            ],
+            [
+              -87.65977996820752,
+              41.99968818335957
+            ],
+            [
+              -87.65989503258798,
+              41.99988663180209
+            ],
+            [
+              -87.66004708725151,
+              42.00008529428095
+            ],
+            [
+              -87.66021157408115,
+              42.00027483076113
+            ],
+            [
+              -87.66035168588144,
+              42.00043663012603
+            ],
+            [
+              -87.660491900009,
+              42.00058923052017
+            ],
+            [
+              -87.66067007464969,
+              42.0007558343726
+            ],
+            [
+              -87.66082777394577,
+              42.00089935357335
+            ],
+            [
+              -87.66106070126192,
+              42.00107335819201
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red, Purple Line",
+        "description": null,
+        "ASSET_ID": 21100021,
+        "SHAPE.LEN": 2462.586818,
+        "OBJECTID_1": 21,
+        "DESCRIPTIO": "Thorndale to Bryn Mawr",
+        "LINES": "Red, Purple Line",
+        "ALT_LEGEND": "RDPR",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red, Purple Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.65884028452007,
+              41.98350422383967
+            ],
+            [
+              -87.65887358907032,
+              41.98450196492778
+            ],
+            [
+              -87.65898334865022,
+              41.98760154791363
+            ],
+            [
+              -87.6590144131904,
+              41.98881186763632
+            ],
+            [
+              -87.65907585923637,
+              41.99025949260954
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red, Purple Line",
+        "description": null,
+        "ASSET_ID": 21100022,
+        "SHAPE.LEN": 2012.213002,
+        "OBJECTID_1": 22,
+        "DESCRIPTIO": "Bryn Mawr to Berwyn",
+        "LINES": "Red, Purple Line",
+        "ALT_LEGEND": "RDPR",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red, Purple Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.65866841916397,
+              41.97798399042644
+            ],
+            [
+              -87.65871638802678,
+              41.9796686553106
+            ],
+            [
+              -87.6587504660791,
+              41.98059281605134
+            ],
+            [
+              -87.65879205291438,
+              41.98184408545207
+            ],
+            [
+              -87.65884028452007,
+              41.98350422383967
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red, Purple Line",
+        "description": null,
+        "ASSET_ID": 21100023,
+        "SHAPE.LEN": 1651.480114,
+        "OBJECTID_1": 23,
+        "DESCRIPTIO": "Berwyn to Argyle",
+        "LINES": "Red, Purple Line",
+        "ALT_LEGEND": "RDPR",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red, Purple Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.65852996298497,
+              41.97345332146441
+            ],
+            [
+              -87.65858793102505,
+              41.97522799371289
+            ],
+            [
+              -87.65866841916397,
+              41.97798399042644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100057,
+        "SHAPE.LEN": 900.261975,
+        "OBJECTID_1": 57,
+        "DESCRIPTIO": "Washington to Monroe",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line State Street Subway",
+        "TYPE": "Subway",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.627696459922,
+              41.88074455668057
+            ],
+            [
+              -87.62774836605973,
+              41.883214705272
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brown, Purple (Express), Red",
+        "description": null,
+        "ASSET_ID": 21100008,
+        "SHAPE.LEN": 2799.749677,
+        "OBJECTID_1": 8,
+        "DESCRIPTIO": "Diversey to Fullerton",
+        "LINES": "Brown, Purple (Express), Red",
+        "ALT_LEGEND": "RPB",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Brown, Purple (Express), Red"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.6528658372248,
+              41.92505136647194
+            ],
+            [
+              -87.65287506737153,
+              41.92536848651184
+            ],
+            [
+              -87.65289134322478,
+              41.9259912442345
+            ],
+            [
+              -87.65292159989308,
+              41.92714879096334
+            ],
+            [
+              -87.65293543768887,
+              41.92767808753485
+            ],
+            [
+              -87.65295478343631,
+              41.9284181272514
+            ],
+            [
+              -87.65296222379712,
+              41.92870277512272
+            ],
+            [
+              -87.65299317393456,
+              41.92950750060699
+            ],
+            [
+              -87.65302371789073,
+              41.93030172790962
+            ],
+            [
+              -87.65304679775033,
+              41.93090173493386
+            ],
+            [
+              -87.65307037177351,
+              41.93151468032703
+            ],
+            [
+              -87.65309584920219,
+              41.93217696790145
+            ],
+            [
+              -87.6531308575982,
+              41.93273149889472
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brown, Purple (Express), Red",
+        "description": null,
+        "ASSET_ID": 21100009,
+        "SHAPE.LEN": 2491.420662,
+        "OBJECTID_1": 9,
+        "DESCRIPTIO": "Fullerton to Armitage",
+        "LINES": "Brown, Purple (Express), Red",
+        "ALT_LEGEND": "RPB",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Brown, Purple (Express), Red"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.65264430640579,
+              41.91821656667923
+            ],
+            [
+              -87.6527411430972,
+              41.92112856376068
+            ],
+            [
+              -87.65275987805958,
+              41.9217182006966
+            ],
+            [
+              -87.65281720335719,
+              41.9235223161953
+            ],
+            [
+              -87.6528658372248,
+              41.92505136647194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100116,
+        "SHAPE.LEN": 2431.450774,
+        "OBJECTID_1": 109,
+        "DESCRIPTIO": "Roosevelt to Harrison",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line State Street Subway",
+        "TYPE": "Subway",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.6274023824014,
+              41.86736766529983
+            ],
+            [
+              -87.62745141371657,
+              41.86921464261349
+            ],
+            [
+              -87.62746905008017,
+              41.87076336652769
+            ],
+            [
+              -87.62745664654017,
+              41.87189073406235
+            ],
+            [
+              -87.6274871583943,
+              41.87305724299566
+            ],
+            [
+              -87.62747911622562,
+              41.8740392426337
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red, Purple Line",
+        "description": null,
+        "ASSET_ID": 21100002,
+        "SHAPE.LEN": 1800.132896,
+        "OBJECTID_1": 2,
+        "DESCRIPTIO": "Lawrence to Wilson",
+        "LINES": "Red, Purple Line",
+        "ALT_LEGEND": "RDPR",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red, Purple Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.65758750947528,
+              41.96427269188822
+            ],
+            [
+              -87.65802133507393,
+              41.96581929055245
+            ],
+            [
+              -87.65819033925305,
+              41.96621846093642
+            ],
+            [
+              -87.6583189819129,
+              41.96650362897086
+            ],
+            [
+              -87.65835858701473,
+              41.96669002089185
+            ],
+            [
+              -87.65838428411853,
+              41.96688150295095
+            ],
+            [
+              -87.65842208882658,
+              41.96745896091846
+            ],
+            [
+              -87.65846556843937,
+              41.9683761425439
+            ],
+            [
+              -87.65849296214573,
+              41.96913893870342
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red, Purple Line",
+        "description": null,
+        "ASSET_ID": 21100003,
+        "SHAPE.LEN": 4256.243677,
+        "OBJECTID_1": 3,
+        "DESCRIPTIO": "Wilson to Sheridan",
+        "LINES": "Red, Purple Line",
+        "ALT_LEGEND": "RDPR",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red, Purple Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.65492939166126,
+              41.95377494531437
+            ],
+            [
+              -87.65557043199591,
+              41.95376544118533
+            ],
+            [
+              -87.65606302030132,
+              41.95376391658746
+            ],
+            [
+              -87.65623502146268,
+              41.95377379126367
+            ],
+            [
+              -87.65634748981634,
+              41.95380103566435
+            ],
+            [
+              -87.65646537904269,
+              41.95387703994676
+            ],
+            [
+              -87.65656532461145,
+              41.95396622645799
+            ],
+            [
+              -87.65664760856414,
+              41.95404201996044
+            ],
+            [
+              -87.65671750555913,
+              41.95416647054043
+            ],
+            [
+              -87.65673983607117,
+              41.95429949810849
+            ],
+            [
+              -87.65673866475777,
+              41.95441024240925
+            ],
+            [
+              -87.6567690255541,
+              41.95490657227902
+            ],
+            [
+              -87.65683672482363,
+              41.95692259283837
+            ],
+            [
+              -87.6568900886376,
+              41.95861070983142
+            ],
+            [
+              -87.65699865558875,
+              41.96181418669004
+            ],
+            [
+              -87.65756347177603,
+              41.96397045777844
+            ],
+            [
+              -87.65758750947528,
+              41.96427269188822
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red, Purple Line",
+        "description": null,
+        "ASSET_ID": 21100004,
+        "SHAPE.LEN": 2581.713736,
+        "OBJECTID_1": 4,
+        "DESCRIPTIO": "Sheridan to Addison",
+        "LINES": "Red, Purple Line",
+        "ALT_LEGEND": "RDPR",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red, Purple Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.65362593118043,
+              41.94742799535678
+            ],
+            [
+              -87.65363554415794,
+              41.94819886386848
+            ],
+            [
+              -87.6536456393239,
+              41.95059994675451
+            ],
+            [
+              -87.65365831235026,
+              41.95108288489359
+            ],
+            [
+              -87.6536604873874,
+              41.9519954657554
+            ],
+            [
+              -87.65362592053201,
+              41.95245597302328
+            ],
+            [
+              -87.65367158496069,
+              41.95311153649393
+            ],
+            [
+              -87.65368468595476,
+              41.9533202828916
+            ],
+            [
+              -87.65369271253692,
+              41.95343095587119
+            ],
+            [
+              -87.65373335834569,
+              41.95351536301472
+            ],
+            [
+              -87.65378605844126,
+              41.95358212680591
+            ],
+            [
+              -87.65385067928185,
+              41.95364452823767
+            ],
+            [
+              -87.6539390793817,
+              41.95370263886964
+            ],
+            [
+              -87.6540786298351,
+              41.95373403675265
+            ],
+            [
+              -87.65430648647626,
+              41.9537535411832
+            ],
+            [
+              -87.65492939166126,
+              41.95377494531437
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red, Purple Line",
+        "description": null,
+        "ASSET_ID": 21100005,
+        "SHAPE.LEN": 1918.716686,
+        "OBJECTID_1": 5,
+        "DESCRIPTIO": "Addison to Clark Junction",
+        "LINES": "Red, Purple Line",
+        "ALT_LEGEND": "RDPR",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red, Purple Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.65345391792157,
+              41.94217681262115
+            ],
+            [
+              -87.65342448305786,
+              41.94237224420864
+            ],
+            [
+              -87.65339745703922,
+              41.94268217746244
+            ],
+            [
+              -87.6533775398294,
+              41.94288140770284
+            ],
+            [
+              -87.65336256753105,
+              41.94317369618263
+            ],
+            [
+              -87.65338799707138,
+              41.94357253961736
+            ],
+            [
+              -87.65340240886648,
+              41.94389158188269
+            ],
+            [
+              -87.65341837392448,
+              41.94406444407721
+            ],
+            [
+              -87.65342275247338,
+              41.94421065714904
+            ],
+            [
+              -87.65347469646018,
+              41.94434829382345
+            ],
+            [
+              -87.65351486483024,
+              41.94447699917548
+            ],
+            [
+              -87.65353483605053,
+              41.9453896864472
+            ],
+            [
+              -87.65361975532807,
+              41.94689193720703
+            ],
+            [
+              -87.65362593118043,
+              41.94742799535678
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brown, Purple (Express), Red",
+        "description": null,
+        "ASSET_ID": 21100006,
+        "SHAPE.LEN": 884.366031,
+        "OBJECTID_1": 6,
+        "DESCRIPTIO": "Clark Junction to Belmont",
+        "LINES": "Brown, Purple (Express), Red",
+        "ALT_LEGEND": "RPB",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Brown, Purple (Express), Red"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.65338048839446,
+              41.93975074474307
+            ],
+            [
+              -87.65338299060322,
+              41.93991377355572
+            ],
+            [
+              -87.65339708114695,
+              41.9408324086891
+            ],
+            [
+              -87.65342291755371,
+              41.94145684693695
+            ],
+            [
+              -87.65344193405309,
+              41.94185234574271
+            ],
+            [
+              -87.65345391792157,
+              41.94217681262115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brown, Purple (Express), Red",
+        "description": null,
+        "ASSET_ID": 21100007,
+        "SHAPE.LEN": 1355.336277,
+        "OBJECTID_1": 7,
+        "DESCRIPTIO": "Belmont to Wellington",
+        "LINES": "Brown, Purple (Express), Red",
+        "ALT_LEGEND": "RPB",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Brown, Purple (Express), Red"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.65326644950012,
+              41.93603260196862
+            ],
+            [
+              -87.65327513519534,
+              41.93626662411803
+            ],
+            [
+              -87.65330865079625,
+              41.93716957451992
+            ],
+            [
+              -87.6533258217564,
+              41.93763218213022
+            ],
+            [
+              -87.65336361209727,
+              41.93865027668299
+            ],
+            [
+              -87.6533678846089,
+              41.93892875260408
+            ],
+            [
+              -87.65337491802836,
+              41.93938762163884
+            ],
+            [
+              -87.65338048839446,
+              41.93975074474307
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red, Purple Line",
+        "description": null,
+        "ASSET_ID": 21100017,
+        "SHAPE.LEN": 1554.328668,
+        "OBJECTID_1": 17,
+        "DESCRIPTIO": "Howard to Jarvis",
+        "LINES": "Red, Purple Line",
+        "ALT_LEGEND": "RDPR",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red, Purple Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.66909211148578,
+              42.01587617883019
+            ],
+            [
+              -87.66988212976136,
+              42.01657679510998
+            ],
+            [
+              -87.67036510346028,
+              42.01697644077731
+            ],
+            [
+              -87.67078724364345,
+              42.01732575107154
+            ],
+            [
+              -87.67142086149607,
+              42.01785003626895
+            ],
+            [
+              -87.6717745809658,
+              42.01814271940476
+            ],
+            [
+              -87.6723242712329,
+              42.01859535856224
+            ],
+            [
+              -87.67289245025043,
+              42.01906321875882
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100026,
+        "SHAPE.LEN": 1824.767957,
+        "OBJECTID_1": 26,
+        "DESCRIPTIO": "Chicago to Grand",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Subway",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.62802125779766,
+              41.89166519997453
+            ],
+            [
+              -87.62803950029215,
+              41.89233420126197
+            ],
+            [
+              -87.62808816635356,
+              41.89411884583129
+            ],
+            [
+              -87.62812918544908,
+              41.89562295514305
+            ],
+            [
+              -87.62817635296412,
+              41.89667121141947
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100029,
+        "SHAPE.LEN": 5829.10163,
+        "OBJECTID_1": 29,
+        "DESCRIPTIO": "North/Clybourn to Clark/Division",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Subway",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.63141229246857,
+              41.9039203114184
+            ],
+            [
+              -87.63447013408654,
+              41.90386830122628
+            ],
+            [
+              -87.63698054747329,
+              41.90382479191387
+            ],
+            [
+              -87.6389566313093,
+              41.90379050698648
+            ],
+            [
+              -87.63925700829233,
+              41.90379082238646
+            ],
+            [
+              -87.63950552818599,
+              41.90383365794162
+            ],
+            [
+              -87.63971210660122,
+              41.90391757329322
+            ],
+            [
+              -87.63993403854293,
+              41.90404077898532
+            ],
+            [
+              -87.64068610601535,
+              41.90458050937556
+            ],
+            [
+              -87.6455453450949,
+              41.9080670345756
+            ],
+            [
+              -87.6478543598522,
+              41.90970772059914
+            ],
+            [
+              -87.64917726634019,
+              41.91065457844294
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brown, Purple (Express), Red",
+        "description": null,
+        "ASSET_ID": 21100030,
+        "SHAPE.LEN": 1515.433139,
+        "OBJECTID_1": 30,
+        "DESCRIPTIO": "Armitage to Subway Portal",
+        "LINES": "Brown, Purple (Express), Red",
+        "ALT_LEGEND": "RPB",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Brown, Purple (Express), Red"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.65250042593826,
+              41.91405947006989
+            ],
+            [
+              -87.65251297040581,
+              41.91475371878565
+            ],
+            [
+              -87.65252529561454,
+              41.91509443792483
+            ],
+            [
+              -87.65253797534042,
+              41.91540180970922
+            ],
+            [
+              -87.65254835191007,
+              41.91562579247932
+            ],
+            [
+              -87.65260981237181,
+              41.91717934555919
+            ],
+            [
+              -87.65262488491784,
+              41.91763256233851
+            ],
+            [
+              -87.65263982019114,
+              41.91808171839256
+            ],
+            [
+              -87.65264430640579,
+              41.91821656667923
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100036,
+        "SHAPE.LEN": 1620.928756,
+        "OBJECTID_1": 36,
+        "DESCRIPTIO": "Subway Portal to North/Clybourn",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Subway",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.64917726634019,
+              41.91065457844294
+            ],
+            [
+              -87.65069801639135,
+              41.91174551147709
+            ],
+            [
+              -87.65140702039189,
+              41.91225558766482
+            ],
+            [
+              -87.65235283253323,
+              41.9129335535139
+            ],
+            [
+              -87.65242438994322,
+              41.9129874904158
+            ],
+            [
+              -87.6524858180791,
+              41.91308123255882
+            ],
+            [
+              -87.65249098457548,
+              41.91316184393619
+            ],
+            [
+              -87.65249380870289,
+              41.91326816077415
+            ],
+            [
+              -87.65250042593826,
+              41.91405947006989
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100038,
+        "SHAPE.LEN": 3370.113075,
+        "OBJECTID_1": 38,
+        "DESCRIPTIO": "Clark/Division to Chicago",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Subway",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.62817635296412,
+              41.89667121141947
+            ],
+            [
+              -87.62826414634615,
+              41.8991364850448
+            ],
+            [
+              -87.62829734876955,
+              41.90026169505514
+            ],
+            [
+              -87.62834794381207,
+              41.90212032818091
+            ],
+            [
+              -87.62862012795829,
+              41.90316335853307
+            ],
+            [
+              -87.62864241106568,
+              41.90364239421272
+            ],
+            [
+              -87.62866649954958,
+              41.90375612530492
+            ],
+            [
+              -87.62869477527148,
+              41.90381849742274
+            ],
+            [
+              -87.62874488522499,
+              41.90387018746019
+            ],
+            [
+              -87.62880244678858,
+              41.90390299440698
+            ],
+            [
+              -87.62891430277224,
+              41.90393613089297
+            ],
+            [
+              -87.62907710691503,
+              41.9039452443425
+            ],
+            [
+              -87.63141229246857,
+              41.9039203114184
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red, Purple Line",
+        "description": null,
+        "ASSET_ID": 21100040,
+        "SHAPE.LEN": 3001.497794,
+        "OBJECTID_1": 40,
+        "DESCRIPTIO": "Jarvis to Morse",
+        "LINES": "Red, Purple Line",
+        "ALT_LEGEND": "RDPR",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red, Purple Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.66590908921191,
+              42.00836181732539
+            ],
+            [
+              -87.6659712683287,
+              42.01058979590322
+            ],
+            [
+              -87.66601382400233,
+              42.01183288906137
+            ],
+            [
+              -87.6660555661635,
+              42.01226812851949
+            ],
+            [
+              -87.66612623863186,
+              42.01259306136726
+            ],
+            [
+              -87.66629817186738,
+              42.01297381965306
+            ],
+            [
+              -87.66663473747609,
+              42.01354886422669
+            ],
+            [
+              -87.66689050434269,
+              42.01388177573862
+            ],
+            [
+              -87.66718331219558,
+              42.01421489742278
+            ],
+            [
+              -87.66769220718157,
+              42.01466296173604
+            ],
+            [
+              -87.66909211148578,
+              42.01587617883019
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red, Purple Line",
+        "description": null,
+        "ASSET_ID": 21100049,
+        "SHAPE.LEN": 3131.410698,
+        "OBJECTID_1": 49,
+        "DESCRIPTIO": "Morse to Loyola",
+        "LINES": "Red, Purple Line",
+        "ALT_LEGEND": "RDPR",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red, Purple Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.66106070126192,
+              42.00107335819201
+            ],
+            [
+              -87.66142023827517,
+              42.00136676410894
+            ],
+            [
+              -87.6616574820175,
+              42.00152496658252
+            ],
+            [
+              -87.66224921681221,
+              42.00186887957828
+            ],
+            [
+              -87.66288053050525,
+              42.00226520959733
+            ],
+            [
+              -87.66346126892765,
+              42.00263744692014
+            ],
+            [
+              -87.66346180003663,
+              42.00263790524723
+            ],
+            [
+              -87.66400549628639,
+              42.00304741949768
+            ],
+            [
+              -87.66447542840797,
+              42.00348005658528
+            ],
+            [
+              -87.66476825087908,
+              42.00381535438664
+            ],
+            [
+              -87.66499909521949,
+              42.00414785076359
+            ],
+            [
+              -87.6652711937583,
+              42.00466525882305
+            ],
+            [
+              -87.66552560225458,
+              42.00524967140728
+            ],
+            [
+              -87.66571246761649,
+              42.00585967013497
+            ],
+            [
+              -87.6657697072769,
+              42.00618445165772
+            ],
+            [
+              -87.6658316022379,
+              42.0068660580397
+            ],
+            [
+              -87.66590908921191,
+              42.00836181732539
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red, Purple Line",
+        "description": null,
+        "ASSET_ID": 21100050,
+        "SHAPE.LEN": 1241.32336,
+        "OBJECTID_1": 50,
+        "DESCRIPTIO": "Granville to Thorndale",
+        "LINES": "Red, Purple Line",
+        "ALT_LEGEND": "RDPR",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red, Purple Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.65907585923637,
+              41.99025949260954
+            ],
+            [
+              -87.65908078052993,
+              41.99083188298179
+            ],
+            [
+              -87.65913048741375,
+              41.99235302531466
+            ],
+            [
+              -87.65920227800822,
+              41.99366425961261
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red, Purple Line",
+        "description": null,
+        "ASSET_ID": 21100051,
+        "SHAPE.LEN": 1572.309086,
+        "OBJECTID_1": 51,
+        "DESCRIPTIO": "Argyle to Lawrence",
+        "LINES": "Red, Purple Line",
+        "ALT_LEGEND": "RDPR",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red, Purple Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.65849296214573,
+              41.96913893870342
+            ],
+            [
+              -87.65848821463618,
+              41.97117997196835
+            ],
+            [
+              -87.65852996298497,
+              41.97345332146441
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100053,
+        "SHAPE.LEN": 944.877861,
+        "OBJECTID_1": 53,
+        "DESCRIPTIO": "Monroe to Jackson",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line State Street Subway",
+        "TYPE": "Subway",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.62759609703375,
+              41.87815275483968
+            ],
+            [
+              -87.627696459922,
+              41.88074455668057
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100054,
+        "SHAPE.LEN": 1499.381498,
+        "OBJECTID_1": 54,
+        "DESCRIPTIO": "Jackson to Harrison",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line State Street Subway",
+        "TYPE": "Subway",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.62747911622562,
+              41.8740392426337
+            ],
+            [
+              -87.62751165410339,
+              41.87471423299875
+            ],
+            [
+              -87.62754332271544,
+              41.87592492193475
+            ],
+            [
+              -87.62756581964673,
+              41.87687451997712
+            ],
+            [
+              -87.62759609703375,
+              41.87815275483968
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100055,
+        "SHAPE.LEN": 2499.421218,
+        "OBJECTID_1": 55,
+        "DESCRIPTIO": "Grand to Lake",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Subway",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.6278133817877,
+              41.88480886643184
+            ],
+            [
+              -87.62783518482296,
+              41.88574040943283
+            ],
+            [
+              -87.62783084784867,
+              41.88596105446682
+            ],
+            [
+              -87.62793497512055,
+              41.88783247905684
+            ],
+            [
+              -87.6279893244398,
+              41.88964860356577
+            ],
+            [
+              -87.62799534313358,
+              41.89071471370234
+            ],
+            [
+              -87.62802125779766,
+              41.89166519997453
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100056,
+        "SHAPE.LEN": 581.200877,
+        "OBJECTID_1": 56,
+        "DESCRIPTIO": "Lake to Washington",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line State Street Subway",
+        "TYPE": "Subway",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.62774836605973,
+              41.883214705272
+            ],
+            [
+              -87.6278133817877,
+              41.88480886643184
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brown, Purple (Express), Red",
+        "description": null,
+        "ASSET_ID": 21100076,
+        "SHAPE.LEN": 1203.559705,
+        "OBJECTID_1": 75,
+        "DESCRIPTIO": "Wellington to Diversey",
+        "LINES": "Brown, Purple (Express), Red",
+        "ALT_LEGEND": "RPB",
+        "BRANCH": "Red Line North Side",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Brown, Purple (Express), Red"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.6531308575982,
+              41.93273149889472
+            ],
+            [
+              -87.65313730808543,
+              41.93311675702336
+            ],
+            [
+              -87.65319647578757,
+              41.93445210642582
+            ],
+            [
+              -87.65321677189775,
+              41.93491020222805
+            ],
+            [
+              -87.65323492601003,
+              41.93531993577696
+            ],
+            [
+              -87.65326644950012,
+              41.93603260196862
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100094,
+        "SHAPE.LEN": 4736.478043,
+        "OBJECTID_1": 89,
+        "DESCRIPTIO": "95/Dan Ryan to 87th",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line Dan Ryan",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.62441474577649,
+              41.72237598353634
+            ],
+            [
+              -87.62454370497899,
+              41.72800133817714
+            ],
+            [
+              -87.62458408457937,
+              41.72904473223248
+            ],
+            [
+              -87.62463426539375,
+              41.73211745569842
+            ],
+            [
+              -87.62472176544196,
+              41.73448308391382
+            ],
+            [
+              -87.6247530736425,
+              41.73537121066882
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100095,
+        "SHAPE.LEN": 5482.439961,
+        "OBJECTID_1": 90,
+        "DESCRIPTIO": "87th to 79th",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line Dan Ryan",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.6247530736425,
+              41.73537121066882
+            ],
+            [
+              -87.62478388394442,
+              41.73613488354775
+            ],
+            [
+              -87.62482282943603,
+              41.73948340574606
+            ],
+            [
+              -87.62496699904715,
+              41.74302978834394
+            ],
+            [
+              -87.62499805086306,
+              41.74459945709522
+            ],
+            [
+              -87.62517835424252,
+              41.75041234202349
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100096,
+        "SHAPE.LEN": 6546.792107,
+        "OBJECTID_1": 91,
+        "DESCRIPTIO": "79th to 69th",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line Dan Ryan",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.62517835424252,
+              41.75041234202349
+            ],
+            [
+              -87.62519090886347,
+              41.75128341167738
+            ],
+            [
+              -87.62520484882131,
+              41.75188761456039
+            ],
+            [
+              -87.62525008846298,
+              41.75263995709515
+            ],
+            [
+              -87.6253061015754,
+              41.75316119886063
+            ],
+            [
+              -87.62537482040767,
+              41.753876188428
+            ],
+            [
+              -87.62549566832725,
+              41.75515848636104
+            ],
+            [
+              -87.62553290158074,
+              41.75603933563885
+            ],
+            [
+              -87.62557432088775,
+              41.75814698191845
+            ],
+            [
+              -87.62567217341656,
+              41.76289574659118
+            ],
+            [
+              -87.62569108428369,
+              41.76541567150367
+            ],
+            [
+              -87.625809350435,
+              41.76836786516076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100097,
+        "SHAPE.LEN": 4848.194272,
+        "OBJECTID_1": 92,
+        "DESCRIPTIO": "69th to 63rd",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line Dan Ryan",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.625809350435,
+              41.76836786516076
+            ],
+            [
+              -87.62584883158867,
+              41.77014895254476
+            ],
+            [
+              -87.62589781548131,
+              41.7718715222772
+            ],
+            [
+              -87.62592000308477,
+              41.77218111476656
+            ],
+            [
+              -87.62595363443006,
+              41.77252430146005
+            ],
+            [
+              -87.62596279564698,
+              41.77258624945672
+            ],
+            [
+              -87.62600698501825,
+              41.77286429425057
+            ],
+            [
+              -87.62602761737854,
+              41.77295725830467
+            ],
+            [
+              -87.62617534590106,
+              41.77343262816535
+            ],
+            [
+              -87.62619402366957,
+              41.7734887776437
+            ],
+            [
+              -87.62634972539402,
+              41.77383013712785
+            ],
+            [
+              -87.62641507342636,
+              41.77397421479099
+            ],
+            [
+              -87.62644408988369,
+              41.77402081218935
+            ],
+            [
+              -87.62651834480852,
+              41.77416052351581
+            ],
+            [
+              -87.62669922106525,
+              41.77445046188336
+            ],
+            [
+              -87.62683109261405,
+              41.7746317881837
+            ],
+            [
+              -87.62703970803378,
+              41.77490568689951
+            ],
+            [
+              -87.62711931486938,
+              41.77500638080314
+            ],
+            [
+              -87.627250689137,
+              41.77514349559272
+            ],
+            [
+              -87.62750369462815,
+              41.77540882480931
+            ],
+            [
+              -87.62852633355902,
+              41.77623285757935
+            ],
+            [
+              -87.62882056781126,
+              41.77644188663854
+            ],
+            [
+              -87.62925622913414,
+              41.77676966987112
+            ],
+            [
+              -87.6295393849721,
+              41.77697955021009
+            ],
+            [
+              -87.62979012244499,
+              41.77722883483051
+            ],
+            [
+              -87.63003950981324,
+              41.77748916226567
+            ],
+            [
+              -87.63028061170886,
+              41.77783232816221
+            ],
+            [
+              -87.63048386801903,
+              41.77814855289663
+            ],
+            [
+              -87.63064648445949,
+              41.77846821280205
+            ],
+            [
+              -87.63076684831447,
+              41.77874209169095
+            ],
+            [
+              -87.63081869843123,
+              41.77892331803858
+            ],
+            [
+              -87.6309320497115,
+              41.77942143221033
+            ],
+            [
+              -87.63097130713712,
+              41.77982222447024
+            ],
+            [
+              -87.63100044946373,
+              41.78053433386265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100098,
+        "SHAPE.LEN": 5476.512384,
+        "OBJECTID_1": 93,
+        "DESCRIPTIO": "Garfield to 47th",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line Dan Ryan",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.63116917042463,
+              41.79541826140861
+            ],
+            [
+              -87.63124130969011,
+              41.79775372788719
+            ],
+            [
+              -87.6313221006018,
+              41.80083726919474
+            ],
+            [
+              -87.63134505458493,
+              41.80188957967642
+            ],
+            [
+              -87.63146186490995,
+              41.80305314091244
+            ],
+            [
+              -87.63162030228338,
+              41.80534750264076
+            ],
+            [
+              -87.63173289411125,
+              41.80689865387124
+            ],
+            [
+              -87.63178910425007,
+              41.80768230335492
+            ],
+            [
+              -87.6318067250215,
+              41.80804580139028
+            ],
+            [
+              -87.6317914561725,
+              41.80829889610597
+            ],
+            [
+              -87.63177167920094,
+              41.80852951166595
+            ],
+            [
+              -87.63174058062918,
+              41.8087003847545
+            ],
+            [
+              -87.63169570494964,
+              41.80895350022239
+            ],
+            [
+              -87.6316803237669,
+              41.8089921496621
+            ],
+            [
+              -87.63161373385233,
+              41.80918890226481
+            ],
+            [
+              -87.63160052146178,
+              41.80923961833017
+            ],
+            [
+              -87.63158620581247,
+              41.80928602252055
+            ],
+            [
+              -87.6315673155706,
+              41.80932981554128
+            ],
+            [
+              -87.6315163328267,
+              41.80946725778518
+            ],
+            [
+              -87.63133611236904,
+              41.80984756055675
+            ],
+            [
+              -87.63102579749452,
+              41.81033813210586
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100113,
+        "SHAPE.LEN": 5425.12895,
+        "OBJECTID_1": 106,
+        "DESCRIPTIO": "63rd to Garfield",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line Dan Ryan",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.63100044946373,
+              41.78053433386265
+            ],
+            [
+              -87.63104497469513,
+              41.78269983977845
+            ],
+            [
+              -87.63106005248392,
+              41.78335979985033
+            ],
+            [
+              -87.63112207066757,
+              41.78558224762207
+            ],
+            [
+              -87.63103118235286,
+              41.78721549927944
+            ],
+            [
+              -87.63100379302813,
+              41.78772180440218
+            ],
+            [
+              -87.63109916456345,
+              41.79167244395962
+            ],
+            [
+              -87.63114473500109,
+              41.79390167216636
+            ],
+            [
+              -87.63116917042463,
+              41.79541826140861
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100114,
+        "SHAPE.LEN": 7640.992824,
+        "OBJECTID_1": 107,
+        "DESCRIPTIO": "47th to Sox-35th",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line Dan Ryan",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.63102579749452,
+              41.81033813210586
+            ],
+            [
+              -87.6305573074534,
+              41.81108602198617
+            ],
+            [
+              -87.63041479416164,
+              41.81138476340673
+            ],
+            [
+              -87.630379312239,
+              41.81147236379221
+            ],
+            [
+              -87.63027195174347,
+              41.81181867305926
+            ],
+            [
+              -87.63021851758172,
+              41.8121383546501
+            ],
+            [
+              -87.63019350691027,
+              41.81246735507838
+            ],
+            [
+              -87.63018629826266,
+              41.81281083268767
+            ],
+            [
+              -87.63021090215283,
+              41.81350749827039
+            ],
+            [
+              -87.63025179829603,
+              41.81523999476199
+            ],
+            [
+              -87.63027911987503,
+              41.81646709470644
+            ],
+            [
+              -87.63030895987706,
+              41.8176866505375
+            ],
+            [
+              -87.63043611936111,
+              41.8226855593683
+            ],
+            [
+              -87.63050182107447,
+              41.82518999764137
+            ],
+            [
+              -87.63055897086984,
+              41.82748374495651
+            ],
+            [
+              -87.63063629551435,
+              41.83119055948253
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100115,
+        "SHAPE.LEN": 8041.451996,
+        "OBJECTID_1": 108,
+        "DESCRIPTIO": "Sox-35th to Cermak-Chinatown",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line Dan Ryan",
+        "TYPE": "Elevated or at Grade",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.63063629551435,
+              41.83119055948253
+            ],
+            [
+              -87.63074638465322,
+              41.83494624342325
+            ],
+            [
+              -87.63081132588849,
+              41.83721169573741
+            ],
+            [
+              -87.63086698062047,
+              41.83952530645838
+            ],
+            [
+              -87.63093039294826,
+              41.84036574579186
+            ],
+            [
+              -87.63103162469841,
+              41.84183724118316
+            ],
+            [
+              -87.631135762881,
+              41.84285160592901
+            ],
+            [
+              -87.63125653316894,
+              41.84458317241094
+            ],
+            [
+              -87.63127921941616,
+              41.84547159129498
+            ],
+            [
+              -87.63127175824675,
+              41.84585635389295
+            ],
+            [
+              -87.63120347808311,
+              41.84647246305732
+            ],
+            [
+              -87.63117025719576,
+              41.84668949286167
+            ],
+            [
+              -87.63114934571695,
+              41.84685373461269
+            ],
+            [
+              -87.63108848624948,
+              41.84717495555923
+            ],
+            [
+              -87.63101190606261,
+              41.84747702278933
+            ],
+            [
+              -87.63084929557093,
+              41.84836219487214
+            ],
+            [
+              -87.63072477496358,
+              41.84896888629963
+            ],
+            [
+              -87.63068598329696,
+              41.84960230499097
+            ],
+            [
+              -87.63068875022003,
+              41.85107221870513
+            ],
+            [
+              -87.63073488444256,
+              41.85179119933008
+            ],
+            [
+              -87.63082073540194,
+              41.85242837998593
+            ],
+            [
+              -87.63084988513904,
+              41.85267630391956
+            ],
+            [
+              -87.63090594004875,
+              41.85293893334556
+            ],
+            [
+              -87.63096782667148,
+              41.8532057953077
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Line",
+        "description": null,
+        "ASSET_ID": 21100099,
+        "SHAPE.LEN": 5556.976431,
+        "OBJECTID_1": 134,
+        "DESCRIPTIO": "Cermak-Chinatown to Roosevelt",
+        "LINES": "Red Line",
+        "ALT_LEGEND": "RD",
+        "BRANCH": "Red Line Dan Ryan",
+        "TYPE": "Subway",
+        "LEGEND": "RD",
+        "Field_1": "Red Line"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -87.63096782667148,
+              41.8532057953077
+            ],
+            [
+              -87.63106167242124,
+              41.85351322841916
+            ],
+            [
+              -87.63115519776619,
+              41.85389307550676
+            ],
+            [
+              -87.63127726352391,
+              41.85454010446902
+            ],
+            [
+              -87.63136122222255,
+              41.8557519073243
+            ],
+            [
+              -87.63141868444481,
+              41.85746087663643
+            ],
+            [
+              -87.63144046564315,
+              41.85869250002692
+            ],
+            [
+              -87.63143775663453,
+              41.85894022814168
+            ],
+            [
+              -87.63141864727474,
+              41.85923073555807
+            ],
+            [
+              -87.63136451427658,
+              41.85951864661784
+            ],
+            [
+              -87.6312949172384,
+              41.85976358427287
+            ],
+            [
+              -87.63120353616615,
+              41.85996074531371
+            ],
+            [
+              -87.6311220268278,
+              41.86012938004078
+            ],
+            [
+              -87.63101434454327,
+              41.86027569268716
+            ],
+            [
+              -87.6309444045664,
+              41.86034507102099
+            ],
+            [
+              -87.63058159780579,
+              41.86092837190889
+            ],
+            [
+              -87.63017782764902,
+              41.86138138558388
+            ],
+            [
+              -87.62934125640814,
+              41.86211473107908
+            ],
+            [
+              -87.62849051078048,
+              41.86268599650765
+            ],
+            [
+              -87.62803493992928,
+              41.86296429456051
+            ],
+            [
+              -87.62778108404567,
+              41.86315569029367
+            ],
+            [
+              -87.62767737789868,
+              41.86325419110548
+            ],
+            [
+              -87.62755561762845,
+              41.86337346422586
+            ],
+            [
+              -87.62739230631743,
+              41.86363282024323
+            ],
+            [
+              -87.62730900442615,
+              41.86403659343123
+            ],
+            [
+              -87.62735945651997,
+              41.86575398876448
+            ],
+            [
+              -87.6274023824014,
+              41.86736766529983
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

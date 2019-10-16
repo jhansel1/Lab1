@@ -1,0 +1,108 @@
+#banner {
+    width: 95%;
+    padding: 10px;
+    font-family: "Segoe UI", sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: center;
+    text-align: center;
+    background-color: #C70039;
+    opacity: 0.8;
+    margin: 5px;
+}
+
+#mapid {
+    height: 84vh;
+    width: 72%;
+    display: inline-block;
+    margin: 5px;
+    position: relative;
+}
+
+#panel {
+    width: 22%;
+    height: 81vh;
+    padding: 10px;
+    font-family: "Segoe UI", sans-serif;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    background-image: url('../data/redline_map.png');
+    background-position: bottom;
+    background-size: contain;
+    background-repeat: no-repeat; 
+    background-color: #DBD9E1;
+    opacity: 0.65;
+    margin: 5px;
+}
+
+/*.layerButton {
+    width: 70px;
+    height: 35px;
+    vertical-align: center;
+    text-align: center;
+    font-size: 12px;
+    font-family: "Segoe UI", sans-serif;
+    background-color: #DBD9E1;
+    padding: 10px;
+    cursor: pointer;
+    display: inline-block;
+    float: right;  
+    z-index: 500;
+    position: absolute;
+    right: 10px; 
+    top: 10px;
+    border: 1px solid black;
+}*/
+
+/* control the slider */
+.sequence-control-container {
+    width: 210px;
+    height: 40px;
+    background-color: #DBD9E1;
+    padding: 10px;
+    line-height: 45px;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 15px;
+    font-family: "Segoe UI", sans-serif;
+    display: inline-block;
+}
+
+/*the entiere legend*/
+.legend-control-container {
+    width: 210px;
+    height: 130px;
+    background-color: #DBD9E1;
+    padding: 10px;
+    border: 1px solid black;
+    line-height: 15px;
+    text-align: center;
+    font-size: 12px;
+    font-family: "Segoe UI", sans-serif;
+}
+
+
+.skip {
+    width: 35px;
+    height: 35px;
+    margin-top: 1px;
+    display: inline-block;
+}
+
+
+
+#forward {
+    float:right;
+    display: inline-block;
+}
+
+#reverse {
+    float:left;
+    display: inline-block;
+}
+
+.leaflet-popup-content p {
+  margin: 0.2em 0;
+}

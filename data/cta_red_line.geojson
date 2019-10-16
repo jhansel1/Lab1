@@ -1,0 +1,896 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 1,
+        "StationID": 40900,
+        "StationName": "Howard",
+        "January_2018": 138102,
+        "February_2018": 128957,
+        "March_2018": 146006,
+        "April_2018": 143050,
+        "May_2018": 152838,
+        "June_2018": 149549,
+        "July_2018": 151008,
+        "August_2018": 155593,
+        "September_2018": 148419,
+        "October_2018": 157519,
+        "November_2018": 140561,
+        "December_2018": 132078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.673,
+          42.0189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 2,
+        "StationID": 41190,
+        "StationName": "Jarvis",
+        "January_2018": 39882,
+        "February_2018": 38225,
+        "March_2018": 42716,
+        "April_2018": 41023,
+        "May_2018": 43355,
+        "June_2018": 42641,
+        "July_2018": 43658,
+        "August_2018": 44620,
+        "September_2018": 44486,
+        "October_2018": 45559,
+        "November_2018": 39658,
+        "December_2018": 37324
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6691,
+          42.0159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 3,
+        "StationID": 40100,
+        "StationName": "Morse",
+        "January_2018": 116644,
+        "February_2018": 112558,
+        "March_2018": 125190,
+        "April_2018": 118824,
+        "May_2018": 126071,
+        "June_2018": 127316,
+        "July_2018": 124194,
+        "August_2018": 130602,
+        "September_2018": 126398,
+        "October_2018": 133370,
+        "November_2018": 117068,
+        "December_2018": 106880
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6659,
+          42.0083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 4,
+        "StationID": 41300,
+        "StationName": "Loyola",
+        "January_2018": 125685,
+        "February_2018": 135383,
+        "March_2018": 145987,
+        "April_2018": 141764,
+        "May_2018": 127464,
+        "June_2018": 126227,
+        "July_2018": 127876,
+        "August_2018": 142124,
+        "September_2018": 172595,
+        "October_2018": 173354,
+        "November_2018": 146014,
+        "December_2018": 115614
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6611,
+          42.0012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 5,
+        "StationID": 40760,
+        "StationName": "Granville",
+        "January_2018": 99525,
+        "February_2018": 101761,
+        "March_2018": 110409,
+        "April_2018": 108004,
+        "May_2018": 102673,
+        "June_2018": 99185,
+        "July_2018": 100506,
+        "August_2018": 106709,
+        "September_2018": 121249,
+        "October_2018": 128805,
+        "November_2018": 107987,
+        "December_2018": 90082
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6591,
+          41.9938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 6,
+        "StationID": 40880,
+        "StationName": "Thorndale",
+        "January_2018": 78018,
+        "February_2018": 76168,
+        "March_2018": 84400,
+        "April_2018": 81350,
+        "May_2018": 85844,
+        "June_2018": 81162,
+        "July_2018": 75722,
+        "August_2018": 80681,
+        "September_2018": 87478,
+        "October_2018": 93979,
+        "November_2018": 77763,
+        "December_2018": 71098
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6589,
+          41.9903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 7,
+        "StationID": 41380,
+        "StationName": "Bryn Mawr",
+        "January_2018": 115732,
+        "February_2018": 110847,
+        "March_2018": 125066,
+        "April_2018": 119839,
+        "May_2018": 128270,
+        "June_2018": 127502,
+        "July_2018": 127341,
+        "August_2018": 132724,
+        "September_2018": 134592,
+        "October_2018": 142206,
+        "November_2018": 119337,
+        "December_2018": 109651
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6587,
+          41.9835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 8,
+        "StationID": 40340,
+        "StationName": "Berwyn",
+        "January_2018": 84304,
+        "February_2018": 80688,
+        "March_2018": 90399,
+        "April_2018": 86002,
+        "May_2018": 90448,
+        "June_2018": 92256,
+        "July_2018": 88741,
+        "August_2018": 93845,
+        "September_2018": 95276,
+        "October_2018": 99388,
+        "November_2018": 84179,
+        "December_2018": 77930
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6586,
+          41.978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 9,
+        "StationID": 41200,
+        "StationName": "Argyle",
+        "January_2018": 79556,
+        "February_2018": 77004,
+        "March_2018": 85528,
+        "April_2018": 82554,
+        "May_2018": 85595,
+        "June_2018": 84701,
+        "July_2018": 85338,
+        "August_2018": 89759,
+        "September_2018": 90563,
+        "October_2018": 94824,
+        "November_2018": 79085,
+        "December_2018": 74085
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6585,
+          41.9734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 10,
+        "StationID": 40770,
+        "StationName": "Lawrence",
+        "January_2018": 83400,
+        "February_2018": 80904,
+        "March_2018": 88894,
+        "April_2018": 83761,
+        "May_2018": 87146,
+        "June_2018": 84331,
+        "July_2018": 85909,
+        "August_2018": 88654,
+        "September_2018": 90761,
+        "October_2018": 101598,
+        "November_2018": 86264,
+        "December_2018": 79105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6583,
+          41.9691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 11,
+        "StationID": 40540,
+        "StationName": "Wilson",
+        "January_2018": 157204,
+        "February_2018": 156353,
+        "March_2018": 172150,
+        "April_2018": 169157,
+        "May_2018": 171872,
+        "June_2018": 171963,
+        "July_2018": 168198,
+        "August_2018": 176496,
+        "September_2018": 188547,
+        "October_2018": 203364,
+        "November_2018": 177241,
+        "December_2018": 149216
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6578,
+          41.9647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 12,
+        "StationID": 40080,
+        "StationName": "Sheridan",
+        "January_2018": 125375,
+        "February_2018": 118804,
+        "March_2018": 133718,
+        "April_2018": 128089,
+        "May_2018": 138233,
+        "June_2018": 139454,
+        "July_2018": 131503,
+        "August_2018": 140365,
+        "September_2018": 149240,
+        "October_2018": 154595,
+        "November_2018": 124930,
+        "December_2018": 108348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6548,
+          41.9538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 13,
+        "StationID": 41420,
+        "StationName": "Addison",
+        "January_2018": 154459,
+        "February_2018": 148924,
+        "March_2018": 180402,
+        "April_2018": 246968,
+        "May_2018": 286481,
+        "June_2018": 307384,
+        "July_2018": 345696,
+        "August_2018": 334242,
+        "September_2018": 307118,
+        "October_2018": 217164,
+        "November_2018": 161823,
+        "December_2018": 141489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6536,
+          41.9474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 14,
+        "StationID": 41320,
+        "StationName": "Belmont",
+        "January_2018": 304608,
+        "February_2018": 287445,
+        "March_2018": 333666,
+        "April_2018": 315870,
+        "May_2018": 338855,
+        "June_2018": 351294,
+        "July_2018": 318083,
+        "August_2018": 308660,
+        "September_2018": 314521,
+        "October_2018": 370255,
+        "November_2018": 301797,
+        "December_2018": 268471
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6532,
+          41.9398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 15,
+        "StationID": 41220,
+        "StationName": "Fullerton",
+        "January_2018": 324892,
+        "February_2018": 304184,
+        "March_2018": 315819,
+        "April_2018": 329143,
+        "May_2018": 349119,
+        "June_2018": 278889,
+        "July_2018": 260836,
+        "August_2018": 287315,
+        "September_2018": 393460,
+        "October_2018": 408906,
+        "November_2018": 293167,
+        "December_2018": 205586
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6527,
+          41.9252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 16,
+        "StationID": 40650,
+        "StationName": "North/Clybourn",
+        "January_2018": 150118,
+        "February_2018": 142386,
+        "March_2018": 159258,
+        "April_2018": 152868,
+        "May_2018": 164203,
+        "June_2018": 159983,
+        "July_2018": 157669,
+        "August_2018": 164717,
+        "September_2018": 156521,
+        "October_2018": 170330,
+        "November_2018": 149359,
+        "December_2018": 144100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6489,
+          41.9107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 17,
+        "StationID": 40630,
+        "StationName": "Clark/Division",
+        "January_2018": 199676,
+        "February_2018": 189468,
+        "March_2018": 215569,
+        "April_2018": 206290,
+        "May_2018": 228269,
+        "June_2018": 230406,
+        "July_2018": 224276,
+        "August_2018": 235782,
+        "September_2018": 224023,
+        "October_2018": 241834,
+        "November_2018": 201478,
+        "December_2018": 188337
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6321,
+          41.9038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 18,
+        "StationID": 41450,
+        "StationName": "Chicago",
+        "January_2018": 346394,
+        "February_2018": 332641,
+        "March_2018": 387107,
+        "April_2018": 368343,
+        "May_2018": 385787,
+        "June_2018": 397451,
+        "July_2018": 410972,
+        "August_2018": 431391,
+        "September_2018": 413794,
+        "October_2018": 439275,
+        "November_2018": 389768,
+        "December_2018": 356329
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6281,
+          41.8967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 19,
+        "StationID": 40330,
+        "StationName": "Grand",
+        "January_2018": 277930,
+        "February_2018": 260059,
+        "March_2018": 323493,
+        "April_2018": 303189,
+        "May_2018": 333505,
+        "June_2018": 355094,
+        "July_2018": 381190,
+        "August_2018": 384061,
+        "September_2018": 335660,
+        "October_2018": 352006,
+        "November_2018": 295174,
+        "December_2018": 285089
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6281,
+          41.8917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 20,
+        "StationID": 41660,
+        "StationName": "Lake",
+        "January_2018": 489912,
+        "February_2018": 462991,
+        "March_2018": 539570,
+        "April_2018": 518687,
+        "May_2018": 548748,
+        "June_2018": 573521,
+        "July_2018": 583522,
+        "August_2018": 610865,
+        "September_2018": 578875,
+        "October_2018": 627730,
+        "November_2018": 556879,
+        "December_2018": 513602
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6279,
+          41.8852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 21,
+        "StationID": 41090,
+        "StationName": "Monroe",
+        "January_2018": 246478,
+        "February_2018": 232557,
+        "March_2018": 264214,
+        "April_2018": 254607,
+        "May_2018": 267361,
+        "June_2018": 268512,
+        "July_2018": 270857,
+        "August_2018": 287496,
+        "September_2018": 260010,
+        "October_2018": 293676,
+        "November_2018": 243102,
+        "December_2018": 216750
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6285,
+          41.8801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 22,
+        "StationID": 40560,
+        "StationName": "Jackson",
+        "January_2018": 235052,
+        "February_2018": 219579,
+        "March_2018": 237996,
+        "April_2018": 245818,
+        "May_2018": 240849,
+        "June_2018": 204018,
+        "July_2018": 205844,
+        "August_2018": 227092,
+        "September_2018": 245138,
+        "October_2018": 292353,
+        "November_2018": 215521,
+        "December_2018": 157370
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6294,
+          41.8787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 23,
+        "StationID": 41490,
+        "StationName": "Harrison",
+        "January_2018": 96426,
+        "February_2018": 104052,
+        "March_2018": 111783,
+        "April_2018": 114403,
+        "May_2018": 111482,
+        "June_2018": 103265,
+        "July_2018": 101398,
+        "August_2018": 111838,
+        "September_2018": 121002,
+        "October_2018": 133596,
+        "November_2018": 106258,
+        "December_2018": 85251
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6275,
+          41.8741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 24,
+        "StationID": 41400,
+        "StationName": "Roosevelt",
+        "January_2018": 258148,
+        "February_2018": 253276,
+        "March_2018": 292374,
+        "April_2018": 279769,
+        "May_2018": 300007,
+        "June_2018": 312468,
+        "July_2018": 318333,
+        "August_2018": 330100,
+        "September_2018": 316907,
+        "October_2018": 343512,
+        "November_2018": 291223,
+        "December_2018": 258850
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6266,
+          41.8674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 25,
+        "StationID": 41000,
+        "StationName": "Cermak-Chinatown",
+        "January_2018": 96600,
+        "February_2018": 100514,
+        "March_2018": 123345,
+        "April_2018": 113032,
+        "May_2018": 126955,
+        "June_2018": 130680,
+        "July_2018": 136742,
+        "August_2018": 133997,
+        "September_2018": 136521,
+        "October_2018": 144342,
+        "November_2018": 114275,
+        "December_2018": 102131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6309,
+          41.853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 26,
+        "StationID": 40190,
+        "StationName": "Sox-35th",
+        "January_2018": 97240,
+        "February_2018": 94049,
+        "March_2018": 105990,
+        "April_2018": 121668,
+        "May_2018": 132445,
+        "June_2018": 143895,
+        "July_2018": 133195,
+        "August_2018": 153318,
+        "September_2018": 146952,
+        "October_2018": 121876,
+        "November_2018": 100711,
+        "December_2018": 88070
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6306,
+          41.8313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 27,
+        "StationID": 41230,
+        "StationName": "47th",
+        "January_2018": 71256,
+        "February_2018": 66707,
+        "March_2018": 76065,
+        "April_2018": 74971,
+        "May_2018": 82719,
+        "June_2018": 79548,
+        "July_2018": 80330,
+        "August_2018": 82960,
+        "September_2018": 81866,
+        "October_2018": 87951,
+        "November_2018": 75005,
+        "December_2018": 72252
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6314,
+          41.8096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 28,
+        "StationID": 41170,
+        "StationName": "Garfield",
+        "January_2018": 78440,
+        "February_2018": 74602,
+        "March_2018": 83729,
+        "April_2018": 82679,
+        "May_2018": 91913,
+        "June_2018": 87582,
+        "July_2018": 90659,
+        "August_2018": 89262,
+        "September_2018": 89566,
+        "October_2018": 97318,
+        "November_2018": 86041,
+        "December_2018": 78231
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6312,
+          41.7958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 29,
+        "StationID": 40910,
+        "StationName": "63rd",
+        "January_2018": 73332,
+        "February_2018": 70754,
+        "March_2018": 79511,
+        "April_2018": 77803,
+        "May_2018": 86265,
+        "June_2018": 81407,
+        "July_2018": 81686,
+        "August_2018": 83185,
+        "September_2018": 86859,
+        "October_2018": 93248,
+        "November_2018": 82369,
+        "December_2018": 78131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.631,
+          41.7809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 30,
+        "StationID": 40990,
+        "StationName": "69th",
+        "January_2018": 122969,
+        "February_2018": 114109,
+        "March_2018": 128843,
+        "April_2018": 125430,
+        "May_2018": 138577,
+        "June_2018": 132902,
+        "July_2018": 135383,
+        "August_2018": 136578,
+        "September_2018": 134070,
+        "October_2018": 144441,
+        "November_2018": 128059,
+        "December_2018": 122842
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6258,
+          41.769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 31,
+        "StationID": 40240,
+        "StationName": "79th",
+        "January_2018": 166892,
+        "February_2018": 157092,
+        "March_2018": 175061,
+        "April_2018": 170629,
+        "May_2018": 186548,
+        "June_2018": 180400,
+        "July_2018": 184925,
+        "August_2018": 187142,
+        "September_2018": 182078,
+        "October_2018": 194380,
+        "November_2018": 171303,
+        "December_2018": 164501
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6251,
+          41.751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 32,
+        "StationID": 41430,
+        "StationName": "87th",
+        "January_2018": 97951,
+        "February_2018": 94417,
+        "March_2018": 106586,
+        "April_2018": 102817,
+        "May_2018": 112542,
+        "June_2018": 109018,
+        "July_2018": 112866,
+        "August_2018": 114117,
+        "September_2018": 110484,
+        "October_2018": 119270,
+        "November_2018": 105399,
+        "December_2018": 101393
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6247,
+          41.7354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Number": 33,
+        "StationID": 40450,
+        "StationName": "95th",
+        "January_2018": 243250,
+        "February_2018": 230482,
+        "March_2018": 257811,
+        "April_2018": 250476,
+        "May_2018": 266560,
+        "June_2018": 251301,
+        "July_2018": 256652,
+        "August_2018": 263207,
+        "September_2018": 259597,
+        "October_2018": 277741,
+        "November_2018": 240565,
+        "December_2018": 227347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6243,
+          41.7212
+        ]
+      }
+    }
+  ]
+}
